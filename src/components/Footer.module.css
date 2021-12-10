@@ -1,0 +1,6 @@
+.footer {
+  background-color: hsla(0, 0%, 5%);
+  padding: 1rem;
+  box-shadow: rgb(0, 180, 9) 0px 0px 10px;
+  font-weight: bold;
+}
