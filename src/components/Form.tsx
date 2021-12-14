@@ -72,6 +72,11 @@ const Form = () => {
       message:
         'Hola, soy de Mercado Libre, tengo un paquete para usted, estoy afuera de su domicilio pero no hay nadie, podría ayudarme?',
     },
+    {
+      title: 'Solicitar confirmación',
+      message:
+        'Hola, soy de Mercado Libre, acabo de hablar por teléfono con usted, podría confirmar que solicita que deje su paquete en este lugar?',
+    },
   ];
 
   return (
